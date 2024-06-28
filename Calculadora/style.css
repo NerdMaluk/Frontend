@@ -49,12 +49,12 @@ button {
 }
 
 button.operator {
-    background-color: #f9a825;
+    background-color: #d93052;
     color: white;
 }
 
 button.equal-sign {
-    background-color: #64dd17;
+    background-color: #2b9fd5;
     color: white;
     grid-column: span 4;
 }
